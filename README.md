@@ -22,6 +22,3 @@ It uses only HTML, CSS, and JavaScript — no frameworks — making it easy to d
 - 🧩 Modular HTML/CSS/JS structure for easy customization  
 
 ---
-
-## 📂 Folder Structure
-
